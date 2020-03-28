@@ -7,3 +7,7 @@ file.
 ![Application GUI](images/fda-510k-app.PNG)
 
 ![Running a query](images/fda-510k-query-finished.png)
+
+#### **Query results**
+
+![Query results](images/fda-510k-query-results.PNG)
